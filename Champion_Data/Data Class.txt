@@ -1,0 +1,349 @@
+Aatrox
+the Darkin Blade	Fighter icon Juggernaut	2013-06-13	V14.4	4800	880
+Ahri OriginalSquareAhri
+the Nine-Tailed Fox	Mage icon Burst	2011-12-14	V14.4	3150	790
+Akali OriginalSquareAkali
+the Rogue Assassin	Slayer icon Assassin	2010-05-11	V14.2	3150	790
+Akshan OriginalSquareAkshan
+the Rogue Sentinel	Marksman icon Marksman
+Slayer icon Assassin	2021-07-22	V13.20	4800	880
+Alistar OriginalSquareAlistar
+the Minotaur	Tank icon Vanguard	2009-02-21	V13.7	1350	585
+Amumu OriginalSquareAmumu
+the Sad Mummy	Tank icon Vanguard	2009-06-26	V13.11	450	260
+Anivia OriginalSquareAnivia
+the Cryophoenix	Mage icon Battlemage	2009-07-10	V13.22	3150	790
+Annie OriginalSquareAnnie
+the Dark Child	Mage icon Burst	2009-02-21	V14.4	450	260
+Aphelios OriginalSquareAphelios
+the Weapon of the Faithful	Marksman icon Marksman	2019-12-11	V14.1	4800	880
+Ashe OriginalSquareAshe
+the Frost Archer	Marksman icon Marksman	2009-02-21	V13.12	450	260
+Aurelion Sol OriginalSquareAurelion Sol
+The Star Forger	Mage icon Battlemage	2016-03-24	V14.4	4800	880
+Azir OriginalSquareAzir
+the Emperor of the Sands	Specialist icon Specialist	2014-09-16	V14.3	4800	880
+Bard OriginalSquareBard
+the Wandering Caretaker	Controller icon Catcher	2015-03-12	V14.4	4800	880
+Bel'Veth OriginalSquareBel'Veth
+the Empress of the Void	Slayer icon Skirmisher	2022-06-09	V13.21	3150	790
+Blitzcrank OriginalSquareBlitzcrank
+the Great Steam Golem	Controller icon Catcher	2009-09-02	V14.4	1350	585
+Brand OriginalSquareBrand
+the Burning Vengeance	Mage icon Burst	2011-04-12	V14.4	450	260
+Braum OriginalSquareBraum
+the Heart of the Freljord	Tank icon Warden	2014-05-12	V13.24	3150	790
+Briar OriginalSquareBriar
+the Restrained Hunger	Fighter icon Diver	2023-09-14	V14.4	6300	975
+Caitlyn OriginalSquareCaitlyn
+the Sheriff of Piltover	Marksman icon Marksman	2011-01-04	V14.3	450	260
+Camille OriginalSquareCamille
+the Steel Shadow	Fighter icon Diver	2016-12-07	V14.2	4800	880
+Cassiopeia OriginalSquareCassiopeia
+the Serpent's Embrace	Mage icon Battlemage	2010-12-14	V13.22	4800	880
+Cho'Gath OriginalSquareCho'Gath
+the Terror of the Void	Specialist icon Specialist	2009-06-26	V14.2	1350	585
+Corki OriginalSquareCorki
+the Daring Bombardier	Marksman icon Marksman	2009-09-19	V14.3	3150	790
+Darius OriginalSquareDarius
+the Hand of Noxus	Fighter icon Juggernaut	2012-05-23	V14.4	450	260
+Diana OriginalSquareDiana
+Scorn of the Moon	Slayer icon Assassin
+Fighter icon Diver	2012-08-07	V14.4	450	260
+Dr. Mundo OriginalSquareDr. Mundo
+the Madman of Zaun	Fighter icon Juggernaut	2009-09-02	V13.22	450	260
+Draven OriginalSquareDraven
+the Glorious Executioner	Marksman icon Marksman	2012-06-06	V13.24	4800	880
+Ekko OriginalSquareEkko
+the Boy Who Shattered Time	Slayer icon Assassin	2015-05-29	V13.16	3150	790
+Elise OriginalSquareElise
+the Spider Queen	Fighter icon Diver	2012-10-26	V13.24	4800	880
+Evelynn OriginalSquareEvelynn
+Agony's Embrace	Slayer icon Assassin	2009-05-01	V14.2	1350	585
+Ezreal OriginalSquareEzreal
+the Prodigal Explorer	Marksman icon Marksman	2010-03-16	V14.3	1350	585
+Fiddlesticks OriginalSquareFiddlesticks
+the Ancient Fear	Specialist icon Specialist	2009-02-21	V14.4	1350	585
+Fiora OriginalSquareFiora
+the Grand Duelist	Slayer icon Skirmisher	2012-02-29	V14.4	4800	880
+Fizz OriginalSquareFizz
+the Tidal Trickster	Slayer icon Assassin	2011-11-15	V14.2	1350	585
+Galio OriginalSquareGalio
+the Colossus	Tank icon Warden	2010-08-10	V13.24	3150	790
+Gangplank OriginalSquareGangplank
+the Saltwater Scourge	Specialist icon Specialist	2009-08-19	V13.19	3150	790
+Garen OriginalSquareGaren
+The Might of Demacia	Fighter icon Juggernaut	2010-04-27	V14.2	450	260
+Gnar OriginalSquareGnar
+the Missing Link	Specialist icon Specialist	2014-08-14	V13.17	4800	880
+Gragas OriginalSquareGragas
+the Rabble Rouser	Tank icon Vanguard	2010-02-02	V14.2	3150	790
+Graves OriginalSquareGraves
+the Outlaw	Specialist icon Specialist	2011-10-19	V14.2	4800	880
+Gwen OriginalSquareGwen
+The Hallowed Seamstress	Slayer icon Skirmisher	2021-04-15	V14.2	4800	880
+Hecarim OriginalSquareHecarim
+the Shadow of War	Fighter icon Diver	2012-04-18	V14.1	4800	880
+Heimerdinger OriginalSquareHeimerdinger
+the Revered Inventor	Specialist icon Specialist	2009-10-10	V14.2	3150	790
+Hwei OriginalSquareHwei
+the Visionary	Mage icon Artillery	2023-12-05	V14.4	6300	975
+Illaoi OriginalSquareIllaoi
+the Kraken Priestess	Fighter icon Juggernaut	2015-11-24	V14.4	3150	790
+Irelia OriginalSquareIrelia
+the Blade Dancer	Fighter icon Diver	2010-11-16	V14.4	3150	790
+Ivern OriginalSquareIvern
+the Green Father	Controller icon Catcher	2016-10-05	V13.24	4800	880
+Janna OriginalSquareJanna
+the Storm's Fury	Controller icon Enchanter	2009-09-02	V14.1	1350	585
+Jarvan IV OriginalSquareJarvan IV
+the Exemplar of Demacia	Fighter icon Diver	2011-03-01	V14.1	3150	790
+Jax OriginalSquareJax
+Grandmaster at Arms	Slayer icon Skirmisher	2009-02-21	V14.2	1350	585
+Jayce OriginalSquareJayce
+the Defender of Tomorrow	Mage icon Artillery	2012-07-07	V14.4	4800	880
+Jhin OriginalSquareJhin
+the Virtuoso	Marksman icon Marksman
+Controller icon Catcher	2016-02-01	V14.2	4444	880
+Jinx OriginalSquareJinx
+the Loose Cannon	Marksman icon Marksman	2013-10-10	V13.21	3150	790
+K'Sante OriginalSquareK'Sante
+the Pride of Nazumah	Tank icon Warden
+Slayer icon Skirmisher	2022-11-02	V14.4	4800	880
+Kai'Sa OriginalSquareKai'Sa
+Daughter of the Void	Marksman icon Marksman	2018-03-07	V14.4	1350	585
+Kalista OriginalSquareKalista
+the Spear of Vengeance	Marksman icon Marksman	2014-11-20	V14.4	4800	880
+Karma OriginalSquareKarma
+the Enlightened One	Mage icon Burst
+Controller icon Enchanter	2011-02-01	V14.4	3150	790
+Karthus OriginalSquareKarthus
+the Deathsinger	Mage icon Battlemage	2009-06-12	V14.2	3150	790
+Kassadin OriginalSquareKassadin
+the Void Walker	Slayer icon Assassin	2009-08-07	V14.2	3150	790
+Katarina OriginalSquareKatarina
+the Sinister Blade	Slayer icon Assassin	2009-09-19	V14.2	3150	790
+Kayle OriginalSquareKayle
+the Righteous	Specialist icon Specialist	2009-02-21	V13.17	4800	260
+Kayn OriginalSquareKayn
+the Shadow Reaper	Slayer icon Skirmisher	2017-07-12	V14.2	3150	790
+Kennen OriginalSquareKennen
+the Heart of the Tempest	Specialist icon Specialist	2010-04-08	V14.2	4800	880
+Kha'Zix OriginalSquareKha'Zix
+the Voidreaver	Slayer icon Assassin	2012-09-27	V13.17	4800	880
+Kindred OriginalSquareKindred
+The Eternal Hunters	Marksman icon Marksman	2015-10-14	V14.3	4800	880
+Kled OriginalSquareKled
+the Cantankerous Cavalier	Slayer icon Skirmisher	2016-08-10	V14.4	4800	880
+Kog'Maw OriginalSquareKog'Maw
+the Mouth of the Abyss	Marksman icon Marksman	2010-06-24	V14.2	4800	880
+LeBlanc OriginalSquareLeBlanc
+the Deceiver	Mage icon Burst	2010-11-02	V14.4	3150	790
+Lee Sin OriginalSquareLee Sin
+the Blind Monk	Fighter icon Diver	2011-04-01	V13.19	1350	585
+Leona OriginalSquareLeona
+the Radiant Dawn	Tank icon Vanguard	2011-07-13	V13.24	450	260
+Lillia OriginalSquareLillia
+the Bashful Bloom	Slayer icon Skirmisher	2020-07-22	V14.3	4800	880
+Lissandra OriginalSquareLissandra
+the Ice Witch	Mage icon Burst	2013-04-30	V13.22	4800	880
+Lucian OriginalSquareLucian
+the Purifier	Marksman icon Marksman	2013-08-22	V14.2	1350	585
+Lulu OriginalSquareLulu
+the Fae Sorceress	Controller icon Enchanter	2012-03-20	V14.4	4800	880
+Lux OriginalSquareLux
+the Lady of Luminosity	Mage icon Burst
+Mage icon Artillery	2010-10-19	V14.2	450	260
+Malphite OriginalSquareMalphite
+Shard of the Monolith	Tank icon Vanguard	2009-09-02	V13.8	450	260
+Malzahar OriginalSquareMalzahar
+the Prophet of the Void	Mage icon Battlemage	2010-06-01	V13.19	4800	880
+Maokai OriginalSquareMaokai
+the Twisted Treant	Tank icon Vanguard	2011-02-16	V14.4	4800	880
+Master Yi OriginalSquareMaster Yi
+the Wuju Bladesman	Slayer icon Skirmisher	2009-02-21	V14.2	450	260
+Milio OriginalSquareMilio
+The Gentle Flame	Controller icon Enchanter	2023-03-23	V13.21	6300	975
+Miss Fortune OriginalSquareMiss Fortune
+the Bounty Hunter	Marksman icon Marksman	2010-09-08	V13.3	450	260
+Mordekaiser OriginalSquareMordekaiser
+the Iron Revenant	Fighter icon Juggernaut	2010-02-24	V14.4	1350	585
+Morgana OriginalSquareMorgana
+the Fallen	Controller icon Catcher	2009-02-21	V14.4	1350	585
+Naafiri OriginalSquareNaafiri
+the Hound of a Hundred Bites	Slayer icon Assassin	2023-07-19	V14.1	6300	975
+Nami OriginalSquareNami
+the Tidecaller	Controller icon Enchanter	2012-12-07	V14.2	3150	790
+Nasus OriginalSquareNasus
+the Curator of the Sands	Fighter icon Juggernaut	2009-10-01	V13.12	1350	585
+Nautilus OriginalSquareNautilus
+the Titan of the Depths	Tank icon Vanguard	2012-02-14	V13.17	4800	880
+Neeko OriginalSquareNeeko
+the Curious Chameleon	Mage icon Burst
+Controller icon Catcher	2018-12-05	V14.4	4800	880
+Nidalee OriginalSquareNidalee
+the Bestial Huntress	Specialist icon Specialist	2009-12-17	V14.3	3150	790
+Nilah OriginalSquareNilah
+the Joy Unbound	Slayer icon Skirmisher	2022-07-13	V14.2	4800	880
+Nocturne OriginalSquareNocturne
+the Eternal Nightmare	Slayer icon Assassin	2011-03-15	V14.4	3150	790
+Nunu & Willump OriginalSquareNunu & Willump
+the Boy and His Yeti	Tank icon Vanguard	2009-02-21	V13.19	450	260
+Olaf OriginalSquareOlaf
+the Berserker	Fighter icon Diver	2010-06-09	V13.7	3150	790
+Orianna OriginalSquareOrianna
+the Lady of Clockwork	Mage icon Burst	2011-06-01	V14.3	4800	880
+Ornn OriginalSquareOrnn
+The Fire below the Mountain	Tank icon Vanguard	2017-08-23	V14.2	4800	880
+Pantheon OriginalSquarePantheon
+the Unbreakable Spear	Fighter icon Diver	2010-02-02	V13.5	1350	585
+Poppy OriginalSquarePoppy
+Keeper of the Hammer	Tank icon Warden	2010-01-13	V14.2	450	260
+Pyke OriginalSquarePyke
+the Bloodharbor Ripper	Slayer icon Assassin
+Controller icon Catcher	2018-05-31	V14.3	3150	790
+Qiyana OriginalSquareQiyana
+Empress of the Elements	Slayer icon Assassin	2019-06-28	V14.1	4800	880
+Quinn OriginalSquareQuinn
+Demacia's Wings	Specialist icon Specialist	2013-03-01	V14.4	4800	880
+Rakan OriginalSquareRakan
+The Charmer	Controller icon Catcher	2017-04-19	V14.2	4800	880
+Rammus OriginalSquareRammus
+the Armordillo	Tank icon Vanguard	2009-07-10	V14.2	1350	585
+Rek'Sai OriginalSquareRek'Sai
+the Void Burrower	Fighter icon Diver	2014-12-11	V14.4	4800	880
+Rell OriginalSquareRell
+the Iron Maiden	Tank icon Vanguard	2020-12-10	V14.4	4800	880
+Renata Glasc OriginalSquareRenata Glasc
+the Chem-Baroness	Controller icon Enchanter	2022-02-17	V14.4	4800	880
+Renekton OriginalSquareRenekton
+the Butcher of the Sands	Fighter icon Diver	2011-01-18	V14.4	4800	880
+Rengar OriginalSquareRengar
+the Pridestalker	Slayer icon Assassin
+Fighter icon Diver	2012-08-21	V14.3	4800	880
+Riven OriginalSquareRiven
+the Exile	Slayer icon Skirmisher	2011-09-14	V14.2	4800	880
+Rumble OriginalSquareRumble
+the Mechanized Menace	Mage icon Battlemage	2011-04-26	V14.2	4800	880
+Ryze OriginalSquareRyze
+the Rune Mage	Mage icon Battlemage	2009-02-21	V13.22	4800	260
+Samira OriginalSquareSamira
+the Desert Rose	Marksman icon Marksman	2020-09-21	V13.23	3150	790
+Sejuani OriginalSquareSejuani
+Fury of the North	Tank icon Vanguard	2012-01-17	V13.15	450	260
+Senna OriginalSquareSenna
+the Redeemer	Marksman icon Marksman
+Controller icon Enchanter	2019-11-10	V13.24	3150	790
+Seraphine OriginalSquareSeraphine
+the Starry-Eyed Songstress	Mage icon Burst
+Controller icon Enchanter	2020-10-29	V13.22	3150	790
+Sett OriginalSquareSett
+the Boss	Fighter icon Juggernaut	2020-01-14	V14.4	1350	585
+Shaco OriginalSquareShaco
+the Demon Jester	Slayer icon Assassin	2009-10-10	V14.3	3150	790
+Shen OriginalSquareShen
+the Eye of Twilight	Tank icon Warden	2010-03-24	V14.2	3150	790
+Shyvana OriginalSquareShyvana
+the Half-Dragon	Fighter icon Juggernaut	2011-11-01	V14.3	3150	790
+Singed OriginalSquareSinged
+the Mad Chemist	Specialist icon Specialist	2009-04-18	V13.22	4800	260
+Sion OriginalSquareSion
+The Undead Juggernaut	Tank icon Vanguard	2009-02-21	V14.2	1350	585
+Sivir OriginalSquareSivir
+the Battle Mistress	Marksman icon Marksman	2009-02-21	V13.12	450	260
+Skarner OriginalSquareSkarner
+the Crystal Vanguard	Fighter icon Diver	2011-08-09	V13.4	4800	880
+Smolder OriginalSquareSmolder
+the Fiery Fledgling	Marksman icon Marksman	2024-01-31	V14.4	6300	975
+Sona OriginalSquareSona
+Maven of the Strings	Controller icon Enchanter	2010-09-21	V13.21	450	260
+Soraka OriginalSquareSoraka
+the Starchild	Controller icon Enchanter	2009-02-21	V14.4	450	260
+Swain OriginalSquareSwain
+the Noxian Grand General	Mage icon Battlemage	2010-10-05	V14.2	3150	790
+Sylas OriginalSquareSylas
+the Unshackled	Mage icon Burst
+Slayer icon Skirmisher	2019-01-25	V14.1	3150	790
+Syndra OriginalSquareSyndra
+the Dark Sovereign	Mage icon Burst	2012-09-13	V13.24	3150	790
+Tahm Kench OriginalSquareTahm Kench
+The River King	Tank icon Warden	2015-07-09	V14.2	4800	880
+Taliyah OriginalSquareTaliyah
+the Stoneweaver	Mage icon Battlemage	2016-05-18	V14.3	4800	880
+Talon OriginalSquareTalon
+the Blade's Shadow	Slayer icon Assassin	2011-08-24	V14.2	3150	790
+Taric OriginalSquareTaric
+the Shield of Valoran	Controller icon Enchanter
+Tank icon Warden	2009-08-19	V14.2	1350	585
+Teemo OriginalSquareTeemo
+the Swift Scout	Specialist icon Specialist	2009-02-21	V14.3	450	260
+Thresh OriginalSquareThresh
+the Chain Warden	Controller icon Catcher	2013-01-23	V14.4	3150	790
+Tristana OriginalSquareTristana
+the Yordle Gunner	Marksman icon Marksman	2009-02-21	V13.16	1350	585
+Trundle OriginalSquareTrundle
+the Troll King	Fighter icon Juggernaut	2010-12-01	V14.3	3150	790
+Tryndamere OriginalSquareTryndamere
+the Barbarian King	Slayer icon Skirmisher	2009-05-01	V13.21	1350	585
+Twisted Fate OriginalSquareTwisted Fate
+the Card Master	Mage icon Burst	2009-02-21	V14.4	4800	585
+Twitch OriginalSquareTwitch
+the Plague Rat	Marksman icon Marksman	2009-05-01	V14.3	3150	790
+Udyr OriginalSquareUdyr
+the Spirit Walker	Fighter icon Juggernaut	2009-12-02	V14.3	1350	585
+Urgot OriginalSquareUrgot
+the Dreadnought	Fighter icon Juggernaut	2010-08-24	V14.4	3150	790
+Varus OriginalSquareVarus
+the Arrow of Retribution	Marksman icon Marksman
+Mage icon Artillery	2012-05-08	V14.4	4800	880
+Vayne OriginalSquareVayne
+the Night Hunter	Marksman icon Marksman	2011-05-10	V14.2	3150	790
+Veigar OriginalSquareVeigar
+the Tiny Master of Evil	Mage icon Burst	2009-07-24	V14.2	1350	585
+Vel'Koz OriginalSquareVel'Koz
+the Eye of the Void	Mage icon Artillery	2014-02-27	V14.1	3141	880
+Vex OriginalSquareVex
+the Gloomist	Mage icon Burst	2021-09-23	V13.21	3150	790
+Vi OriginalSquareVi
+the Piltover Enforcer	Fighter icon Diver	2012-12-19	V13.17	1350	585
+Viego OriginalSquareViego
+The Ruined King	Slayer icon Skirmisher	2021-01-21	V14.4	4800	880
+Viktor OriginalSquareViktor
+the Machine Herald	Mage icon Battlemage	2011-12-29	V14.2	4800	880
+Vladimir OriginalSquareVladimir
+the Crimson Reaper	Mage icon Battlemage	2010-07-27	V13.13	3150	790
+Volibear OriginalSquareVolibear
+the Relentless Storm	Fighter icon Juggernaut	2011-11-29	V14.4	1350	585
+Warwick OriginalSquareWarwick
+the Uncaged Wrath of Zaun	Fighter icon Diver	2009-02-21	V13.9	450	260
+Wukong OriginalSquareWukong
+the Monkey King	Fighter icon Diver	2011-07-26	V14.3	3150	790
+Xayah OriginalSquareXayah
+the Rebel	Marksman icon Marksman	2017-04-19	V13.24	4800	880
+Xerath OriginalSquareXerath
+the Magus Ascendant	Mage icon Artillery	2011-10-05	V13.22	1350	585
+Xin Zhao OriginalSquareXin Zhao
+the Seneschal of Demacia	Fighter icon Diver	2010-07-13	V13.17	1350	585
+Yasuo OriginalSquareYasuo
+the Unforgiven	Slayer icon Skirmisher	2013-12-13	V13.15	1350	585
+Yone OriginalSquareYone
+the Unforgotten	Slayer icon Assassin
+Slayer icon Skirmisher	2020-08-06	V13.19	3150	790
+Yorick OriginalSquareYorick
+Shepherd of Souls	Fighter icon Juggernaut	2011-06-22	V14.3	3150	790
+Yuumi OriginalSquareYuumi
+the Magical Cat	Controller icon Enchanter	2019-05-14	V13.23	450	260
+Zac OriginalSquareZac
+the Secret Weapon	Tank icon Vanguard	2013-03-29	V14.4	4800	880
+Zed OriginalSquareZed
+the Master of Shadows	Slayer icon Assassin	2012-11-13	V13.20	1350	585
+Zeri OriginalSquareZeri
+The Spark of Zaun	Marksman icon Marksman	2022-01-20	V14.3	4800	880
+Ziggs OriginalSquareZiggs
+the Hexplosives Expert	Mage icon Artillery	2012-02-01	V14.3	4800	880
+Zilean OriginalSquareZilean
+the Chronokeeper	Specialist icon Specialist	2009-04-18	V13.22	1350	585
+Zoe OriginalSquareZoe
+the Aspect of Twilight	Mage icon Burst	2017-11-21	V14.2	4800	880
+Zyra OriginalSquareZyra
+Rise of the Thorns	Controller icon Catcher	2012-07-24	V14.4	3150	790
