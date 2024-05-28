@@ -1,4 +1,4 @@
-# En cours de rédaction, et de formation du git
+# En cours de création, rédaction et formation du repo
 
 L'objectif de ce projet, est d'analyser les potentialité du deep learning, et plus particulièrement des transformers dans la compréhension des dynamique entre les différents personnages d'un jeu vidéo
 
@@ -40,4 +40,6 @@ En outre, il émergeait que la composition d'équipe jouait un rôle plus import
 Ce qui laisse à penser que les actions effectués par les joueurs sont plus optimale et respectent mieux les compositions choisient.
 
 
+Afin de tester l'outil, une interface simple à été mise en place, pour obtenir la prédiction du modèle selon les compositions:
+![alt text](Exemple.png)
  
